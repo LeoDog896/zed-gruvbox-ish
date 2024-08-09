@@ -1,0 +1,7 @@
+id = "zed-gruvbox-ish"
+name = "Gruvbox ish"
+version = "0.0.1"
+schema_version = 1
+authors = ["Tristan F. <leodog896@gmail.ocm>"]
+description = "Gruvbox ish theme from VSCode ported to zed."
+repository = "https://github.com/LeoDog896/zed-gruvbox-ish"
